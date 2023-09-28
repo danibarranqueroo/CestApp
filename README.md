@@ -1,16 +1,15 @@
-# PaceSnApp
+# TransporteEquitativo
 
 ###### José Daniel Barranquero Ortigosa
 
 
 ## Descripción del problema
 
-Soy un corredor habitual de maratones, normalmente a lo largo del recorrido hay fotógrafos que a todos los corredores les van haciendo fotos, el problema de estas fotos es que las tiene que subir luego el fotógrafo a la página web del maratón y ahí una vez están todas cada persona debe buscarse a si misma, haciendo que sea difícil encontrarme y que encima tenga que esperar unos días para ello.
+Mi padre, camionero, trabaja en una cooperativa en mi pueblo en la que en una oficina se gestionan los viajes que se van a realizar. La forma en la que esto funciona es la siguiente: cuando un camionero llega al aparcamiento se acerca a la oficina y en la pizarra apunta su nombre y el momento de llegada, así desde la oficina cada vez que llega un nuevo viaje se le asigna al que lleva más tiempo parado. Esto genera dos principales problemas, por un lado hay gente que puede que le toque ir muchas veces seguidas a destinos lejanos (lo sé de primera mano porque hay veces que mi padre le ha tocado ir de seguido a Reino Unido haciendo que en 1 mes esté 2 días únicamente en casa) y por otro también puede haber camioneros que les toquen seguidamente los viajes que generan más rentabilidad económica (haciendo que esté ganando más que el resto cuando hacen lo mismo).
 
 ## Propuesta de solución
 
-La idea sería crear una aplicación que se encargaría de subir en tiempo real la foto del corredor junto con la ubicación y que además sea capaz de escanear el dorsal del corredor para que automáticamente cada corredor con su dorsal vea sus fotos sin necesidad de buscar ni de esperar tiempo. También ayudaría al fotógrafo que se le irían subiendo y "etiquetando" al momento sin que él una vez terminada la carrera tenga que hacerlo.
-Además, como valor añadido, esta aplicación usaría la ubicación de la foto, el dorsal escaneado y la ruta de la maratón para no solo mostrarle la foto al corredor sino también indicarle en ese justo instante la distancia recorrida y la velocidad promedia a la que ha ido.
+La idea sería crear una aplicación que se encargaría de poner en contacto destinatarios, oficina y camioneros, de forma que cada camionero al llegar al parking lo apunta en la aplicación para que ya se sepa que está disponible y así cuando llega un viaje se le asigne directamente a alguien en función de distintos parámetros que se tendrán en cuenta (estos son por ejemplo: si hay 1 chófer ó 2 en el camión, preferencia por ir lejos o cerca, kilómetros recorridos últimamente, urgencia del destinatario (podrían solicitar alguien experimentado para que tarde menos), tiempo desde el último viaje realizado, dinero acumulado a lo largo del mes,...)
 
 ## Configuración Inicial
 
