@@ -9,7 +9,7 @@ Mi padre, camionero, trabaja en una cooperativa en mi pueblo en la que en una of
 
 ## Propuesta de solución
 
-La idea sería crear una aplicación que se encargaría de poner en contacto destinatarios, oficina y camioneros, de forma que cada camionero al llegar al parking lo apunta en la aplicación para que ya se sepa que está disponible y así cuando llega un viaje se le asigne directamente a alguien en función de distintos parámetros que se tendrán en cuenta (estos son por ejemplo: si hay 1 chófer ó 2 en el camión, preferencia por ir lejos o cerca, kilómetros recorridos últimamente, urgencia del destinatario (podrían solicitar alguien experimentado para que tarde menos), tiempo desde el último viaje realizado, dinero acumulado a lo largo del mes,...)
+La que qurrían los usuarios es que se ponga en contacto destinatarios, oficina y camioneros, de forma que cada camionero al llegar al parking lo apunta en la aplicación para que ya se sepa que está disponible y así cuando llega un viaje se le asigne directamente a alguien de forma equitativa.
 
 ## Configuración Inicial
 
