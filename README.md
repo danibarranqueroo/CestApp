@@ -9,10 +9,16 @@ Mi padre, camionero, trabaja en una cooperativa en mi pueblo en la que en una of
 
 ## Propuesta de solución
 
-La que qurrían los usuarios es que se ponga en contacto destinatarios, oficina y camioneros, de forma que cada camionero al llegar al parking lo apunta en la aplicación para que ya se sepa que está disponible y así cuando llega un viaje se le asigne directamente a alguien de forma equitativa.
+Lo que querrían los usuarios es que se ponga en contacto destinatarios, oficina y camioneros, de forma que cada camionero al llegar al parking lo apunta en la aplicación para que ya se sepa que está disponible y así cuando llega un viaje se le asigne directamente a alguien de forma equitativa.
 
 ## Configuración Inicial
 
-- [Configuración Clave SSH](https://github.com/danibarranqueroo/CestApp/blob/Objetivo-0/docs/conexionssh.png)
+- [Configuración Clave SSH](https://github.com/danibarranqueroo/TransporteEquitativo/blob/Objetivo-0/docs/conexionssh.png)
 
--  [Configuración Git](https://github.com/danibarranqueroo/CestApp/blob/Objetivo-0/docs/gitconfig.png)
+-  [Configuración Git](https://github.com/danibarranqueroo/TransporteEquitativo/blob/Objetivo-0/docs/gitconfig.png)
+
+## Historias de usuario y milestones
+
+- [Historias de usuario](https://github.com/danibarranqueroo/TransporteEquitativo/blob/Objetivo-1/docs/historias.md)
+
+- [Milestones](https://github.com/danibarranqueroo/TransporteEquitativo/blob/Objetivo-1/docs/milestones.md)
