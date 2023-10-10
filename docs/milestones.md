@@ -7,17 +7,10 @@
     -   Un código modularizado del modelo del problema.
     -   Validación del modelo por el product manager.
 
-## [M1] Implementar el sistema de cálculo de las variables
+## [M1] Implementar el sistema de reparto de viajes equitativo
 
--   Objetivo: Calcular las distintas variables a tener en cuenta de cada camionero en lo que va de mes, así como implementar la opción de dar prioridad a los envíos por parte de los destinatarios.
+-   Objetivo: Implementar un algoritmo que dado los camioneros disponibles, proporcione un reparto de viajes justo y equitativo, logrando que todos los camioneros puedan obtener una remuneración similar y acorde a sus preferencias (habrá algunos que prefieran maximizar su beneficio y otros que prefieran minimizar el tiempo en el camión).
 -   Requisitos:
-    -   El sistema debe tener en cuenta los factores especificados en las historias de usuario HU1 y HU2.
-    -   El destinatario debe poder especificar la prioridad o no de su envío.
-    -   Se entregará un código fuente de las clases o módulos, los cuales serán viables cuando pasen los respectivos tests.
-
-## [M2] Implementar el sistema de reparto de viajes equitativo
-
--   Objetivo: Implementar una clase o módulo que dado el resultado de los milestones anteriores y los camioneros disponibles, proporcione un reparto de viajes justo y equitativo, logrando que todos los camioneros puedan obtener una remuneración similar y acorde a sus preferencias (habrá algunos que prefieran obtener el máximo beneficio posible y otros que prefieran pasar más tiempo con su familia aunque no ganen tanto).
--   Requisitos:
-    -   El sistema debe tener en cuenta las variables calculadas en el milestone anterior.
+    -   El sistema debe tener en cuenta las variables mencionadas en la HU1.
+    -   El sistema debe tener en cuenta la prioridad o no de envío indicada en la HU2.
     -   Se entregará un código fuente de las clases o módulos, los cuales serán viables cuando pasen los respectivos tests.
