@@ -1,8 +1,7 @@
 package internal
 
-type struct ViajeAsignado {
-	camionero	Camionero
-	viaje		Viaje
+type struct AsignadorViajes {
+	camioneros		[]Camionero
+	viajes			[]Viaje
+	asignaciones 	map[camioneros]viajes
 }
-
-var viajesAsignados []ViajeAsignado
