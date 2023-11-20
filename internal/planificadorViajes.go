@@ -1,6 +1,6 @@
 package internal
 
-type struct AsignadorViajes {
+type struct PlanificadorViajes {
 	camioneros		[]Camionero
 	viajes			[]Viaje
 	asignaciones 	map[camioneros]viajes
